@@ -24,6 +24,7 @@ h1{
   justify-content: center;
 }
 .Text{
+    align-items: right;
     font-size: 6rem;
     margin: 0 2rem;
 }
